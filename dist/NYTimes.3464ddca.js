@@ -585,6 +585,6 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 
 },{}],"j4kuM":[function(require,module,exports) {
 
-},{}]},["hAbKD","j4kuM"], "j4kuM", "parcelRequireb2c6")
+},{}]},["hAbKD","j4kuM"], "j4kuM", "parcelRequire5167")
 
 //# sourceMappingURL=NYTimes.3464ddca.js.map

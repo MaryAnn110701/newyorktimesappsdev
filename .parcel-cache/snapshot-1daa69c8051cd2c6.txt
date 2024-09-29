@@ -1,4 +1,4 @@
-5899
+5903
 112C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\caniuse-lite\data\agents.js133720667963042814 0
 93C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\get-port133720667969989771 1
 104C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\srcset\package.json133720667974564447 0
@@ -18,7 +18,7 @@
 122C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\posthtml\node_modules\posthtml-parser133720667973993372 1
 116C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\caniuse-lite\data\regions\BY.js133720667964778744 0
 141C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133720667934266801 0
-84C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\package.json133720687279624140 0
+84C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\package.json133720688394824192 0
 105C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\ordered-binary\.idea133720667973692062 1
 95C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\is-extglob133720667970480743 1
 109C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\semver\functions\sort.js133720667974237594 0
@@ -34,7 +34,7 @@
 126C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\caniuse-lite\data\features\flexbox-gap.js133720667963778974 0
 119C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\svgo\plugins\convertShapeToPath.js133720667975222049 0
 128C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\css-tree\cjs\syntax\node\MediaCondition.cjs133720667967212569 0
-76C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\dist133720687287722711 1
+76C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\dist133720688477982590 1
 119C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\svgo\plugins\removeStyleElement.js133720667975306952 0
 127C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\caniuse-lite\data\features\cryptography.js133720667963204379 0
 128C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\caniuse-lite\data\features\notifications.js133720667964108711 0
@@ -1637,6 +1637,7 @@
 95C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\parcel\lib133720667973747148 1
 155C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\selectors.schema.json133720667933865404 0
 126C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\caniuse-lite\data\features\videotracks.js133720667964521492 0
+94C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\dist\index.529c43c6.js133720688477901862 0
 99C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\parcel\LICENSE133720667973747148 0
 135C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\@parcel\reporter-dev-server\src\templates\500.html133720667934805552 0
 113C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\css-tree\cjs\utils\names.cjs133720667967456551 0
@@ -3392,6 +3393,7 @@
 131C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\css-tree\cjs\definition-syntax\SyntaxError.cjs133720667967048605 0
 124C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\css-tree\cjs\definition-syntax\walk.cjs133720667967048605 0
 130C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\@swc\helpers\_\_class_private_field_loose_key133720667961305197 1
+98C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\dist\index.529c43c6.js.map133720688477982590 0
 117C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\css-tree\cjs\convertor\index.cjs133720667967048605 0
 108C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\css-select\node_modules133720667966811702 1
 116C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\caniuse-lite\data\regions\TL.js133720667965359738 0
@@ -5061,6 +5063,7 @@
 177C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\prepare\createDeclarationIndexer.js133720667933770514 0
 109C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\@parcel\reporter-cli\lib133720667934596804 1
 113C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\@parcel\reporter-cli\LICENSE133720667934535240 0
+99C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\dist\index.f4f0bf00.css.map133720688477982590 0
 130C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\@parcel\reporter-cli\test\CLIReporter.test.js133720667934596804 0
 125C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\@parcel\reporter-cli\src\bundleReport.js133720667934596804 0
 124C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\@parcel\reporter-cli\src\CLIReporter.js133720667934596804 0
@@ -5500,7 +5503,7 @@
 150C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property133720667932468564 1
 151C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\String.js133720667932392731 0
 148C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\Url.js133720667932392731 0
-87C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\dist\index.html133720687287399451 0
+87C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\dist\index.html133720688477901862 0
 160C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\border.js133720667932468564 0
 158C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\font.js133720667932468564 0
 161C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\atrule\keyframes.js133720667932392731 0
@@ -5894,7 +5897,8 @@
 94C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\.bin\svgo133720667929428989 0
 112C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\.bin\update-browserslist-db133720667929428989 0
 116C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\node_modules\.bin\update-browserslist-db.cmd133720667929428989 0
-96C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\dist\NYTimes.3464ddca.js133720687287399451 0
-98C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\dist\index.672d4772.js.map133720687287544501 0
-100C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\dist\NYTimes.3464ddca.js.map133720687287544501 0
 95C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\dist\index.3a01df49.css133720687287722711 0
+98C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\dist\index.672d4772.js.map133720687287544501 0
+95C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\dist\index.f4f0bf00.css133720688477901862 0
+96C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\dist\NYTimes.3464ddca.js133720687287399451 0
+100C:\Users\HP  LAPTOP\Downloads\PortableGit\newyorktimesappsdev.github.io\dist\NYTimes.3464ddca.js.map133720687287544501 0
