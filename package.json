@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "parcel index.html",      
-    "build": "parcel build src/index.html"     
+    "build": "parcel build --public-url https://MaryAnn110701.github.io/newyorktimesappsdev src/index.html"     
   },
   "keywords": [],
   "author": "Mary Ann A. Adriano",                       
