@@ -1,12 +1,12 @@
 {
-  "name": "newyorktimesappsdev.github.io",
+  "name": "newyorktimesappsdev",
   "version": "1.0.0",
   "scripts": {
     "start": "parcel index.html",      
-    "build": "parcel build index.html"     
+    "build": "parcel build src/index.html"     
   },
   "keywords": [],
-  "author": "",                       
+  "author": "Mary Ann A. Adriano",                       
   "license": "ISC",
   "description": "A project for New York Times API.", 
   "devDependencies": {

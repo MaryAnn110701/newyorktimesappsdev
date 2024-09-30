@@ -10,4 +10,4 @@ const e="k8XrW9L8Us9nRH4XHw7KlYH6s47A3uaV",t=document.getElementById("news-conta
             <p>${e.abstract}</p>
             <a href="${e.url}" target="_blank">Read more</a>
         `,t.appendChild(a)})}a.addEventListener("input",e=>{n(e.target.value.trim())}),o.addEventListener("click",e=>{e.preventDefault(),n()}),r.addEventListener("click",e=>{e.preventDefault(),i()}),s.addEventListener("click",e=>{e.preventDefault(),l()}),n();
-//# sourceMappingURL=index.529c43c6.js.map
+//# sourceMappingURL=index.a4d075f8.js.map
